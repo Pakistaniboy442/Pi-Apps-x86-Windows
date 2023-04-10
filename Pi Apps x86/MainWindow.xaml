@@ -20,20 +20,21 @@
             <Image Source="/logo.png"  HorizontalAlignment="Left" Margin="5"/>
             <TextBlock Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="36" Margin="7,0,0,0">Pi-Apps</TextBlock>
         </Grid>
-        <ListBox Grid.Row="1" BorderBrush="Black" BorderThickness="0.5,0.5,0.5,0.5" Margin="5,0,5,0">
-            <ListBoxItem>Browsers</ListBoxItem>
-            <ListBoxItem>Office and Utility</ListBoxItem>
-            <ListBoxItem>Games</ListBoxItem>
-            <ListBoxItem>Other</ListBoxItem>
+        <ListBox x:Name="Menu" Grid.Row="1" BorderBrush="Black" BorderThickness="0.5,0.5,0.5,0.5" Margin="5,0,5,0">
+            <ListBoxItem Selected="ListBoxItem_Selected">Browsers</ListBoxItem>
+            <ListBoxItem Selected="ListBoxItem_Selected_1">Office and Utility</ListBoxItem>
+            <ListBoxItem Selected="ListBoxItem_Selected_2">Games</ListBoxItem>
+            <ListBoxItem Selected="ListBoxItem_Selected_3">Other</ListBoxItem>
         </ListBox>
+        <ListBox x:Name="Browsers" Grid.Row="1" BorderBrush="Black" BorderThickness="0.5,0.5,0.5,0.5" Margin="5,0,5,0" Visibility="Hidden"/>
         <Grid Grid.Row="2">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="130"></ColumnDefinition>
                 <ColumnDefinition></ColumnDefinition>
                 <ColumnDefinition></ColumnDefinition>
             </Grid.ColumnDefinitions>
-            <Button Margin="3" BorderBrush="Black" Grid.Column="1" FontFamily="Segoe MDL2 Assets">&#xE72B;</Button>
-            <Button Margin="3" BorderBrush="Black" Grid.Column="2" FontFamily="Segoe MDL2 Assets">&#xE72A;</Button>
+            <Button x:Name="Back" Margin="3" BorderBrush="Black" Grid.Column="1" FontFamily="Segoe MDL2 Assets" IsEnabled="False">&#xE72B;</Button>
+            <Button x:Name="Forward" Margin="3" BorderBrush="Black" Grid.Column="2" FontFamily="Segoe MDL2 Assets" IsEnabled="False" Click="Forward_Click">&#xE72A;</Button>
         </Grid>
     </Grid>
 </Window>

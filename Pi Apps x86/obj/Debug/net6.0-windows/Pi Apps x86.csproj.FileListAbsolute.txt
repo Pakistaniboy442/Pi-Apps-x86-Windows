@@ -19,3 +19,24 @@ C:\Users\muham\source\repos\Pi Apps x86\Pi Apps x86\obj\Debug\net6.0-windows\ref
 C:\Users\muham\source\repos\Pi Apps x86\Pi Apps x86\obj\Debug\net6.0-windows\Pi Apps x86.pdb
 C:\Users\muham\source\repos\Pi Apps x86\Pi Apps x86\obj\Debug\net6.0-windows\Pi Apps x86.genruntimeconfig.cache
 C:\Users\muham\source\repos\Pi Apps x86\Pi Apps x86\obj\Debug\net6.0-windows\ref\Pi Apps x86.dll
+C:\Users\muham\Documents\GitHub\PiApps\Pi-Apps-x86-Windows\Pi Apps x86\bin\Debug\net6.0-windows\Pi Apps x86.exe
+C:\Users\muham\Documents\GitHub\PiApps\Pi-Apps-x86-Windows\Pi Apps x86\bin\Debug\net6.0-windows\Pi Apps x86.deps.json
+C:\Users\muham\Documents\GitHub\PiApps\Pi-Apps-x86-Windows\Pi Apps x86\bin\Debug\net6.0-windows\Pi Apps x86.runtimeconfig.json
+C:\Users\muham\Documents\GitHub\PiApps\Pi-Apps-x86-Windows\Pi Apps x86\bin\Debug\net6.0-windows\Pi Apps x86.dll
+C:\Users\muham\Documents\GitHub\PiApps\Pi-Apps-x86-Windows\Pi Apps x86\bin\Debug\net6.0-windows\Pi Apps x86.pdb
+C:\Users\muham\Documents\GitHub\PiApps\Pi-Apps-x86-Windows\Pi Apps x86\obj\Debug\net6.0-windows\Pi Apps x86.csproj.AssemblyReference.cache
+C:\Users\muham\Documents\GitHub\PiApps\Pi-Apps-x86-Windows\Pi Apps x86\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\muham\Documents\GitHub\PiApps\Pi-Apps-x86-Windows\Pi Apps x86\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\muham\Documents\GitHub\PiApps\Pi-Apps-x86-Windows\Pi Apps x86\obj\Debug\net6.0-windows\Pi Apps x86_MarkupCompile.cache
+C:\Users\muham\Documents\GitHub\PiApps\Pi-Apps-x86-Windows\Pi Apps x86\obj\Debug\net6.0-windows\Pi Apps x86_MarkupCompile.lref
+C:\Users\muham\Documents\GitHub\PiApps\Pi-Apps-x86-Windows\Pi Apps x86\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\muham\Documents\GitHub\PiApps\Pi-Apps-x86-Windows\Pi Apps x86\obj\Debug\net6.0-windows\Pi Apps x86.g.resources
+C:\Users\muham\Documents\GitHub\PiApps\Pi-Apps-x86-Windows\Pi Apps x86\obj\Debug\net6.0-windows\Pi Apps x86.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\Documents\GitHub\PiApps\Pi-Apps-x86-Windows\Pi Apps x86\obj\Debug\net6.0-windows\Pi Apps x86.AssemblyInfoInputs.cache
+C:\Users\muham\Documents\GitHub\PiApps\Pi-Apps-x86-Windows\Pi Apps x86\obj\Debug\net6.0-windows\Pi Apps x86.AssemblyInfo.cs
+C:\Users\muham\Documents\GitHub\PiApps\Pi-Apps-x86-Windows\Pi Apps x86\obj\Debug\net6.0-windows\Pi Apps x86.csproj.CoreCompileInputs.cache
+C:\Users\muham\Documents\GitHub\PiApps\Pi-Apps-x86-Windows\Pi Apps x86\obj\Debug\net6.0-windows\Pi Apps x86.dll
+C:\Users\muham\Documents\GitHub\PiApps\Pi-Apps-x86-Windows\Pi Apps x86\obj\Debug\net6.0-windows\refint\Pi Apps x86.dll
+C:\Users\muham\Documents\GitHub\PiApps\Pi-Apps-x86-Windows\Pi Apps x86\obj\Debug\net6.0-windows\Pi Apps x86.pdb
+C:\Users\muham\Documents\GitHub\PiApps\Pi-Apps-x86-Windows\Pi Apps x86\obj\Debug\net6.0-windows\Pi Apps x86.genruntimeconfig.cache
+C:\Users\muham\Documents\GitHub\PiApps\Pi-Apps-x86-Windows\Pi Apps x86\obj\Debug\net6.0-windows\ref\Pi Apps x86.dll

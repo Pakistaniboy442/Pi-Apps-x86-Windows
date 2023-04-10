@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\muham\\source\\repos\\Pi Apps x86\\Pi Apps x86\\Pi Apps x86.csproj",
+      "projectUniqueName": "C:\\Users\\muham\\Documents\\GitHub\\PiApps\\Pi-Apps-x86-Windows\\Pi Apps x86\\Pi Apps x86.csproj",
       "projectName": "Pi Apps x86",
-      "projectPath": "C:\\Users\\muham\\source\\repos\\Pi Apps x86\\Pi Apps x86\\Pi Apps x86.csproj",
+      "projectPath": "C:\\Users\\muham\\Documents\\GitHub\\PiApps\\Pi-Apps-x86-Windows\\Pi Apps x86\\Pi Apps x86.csproj",
       "packagesPath": "C:\\Users\\muham\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\muham\\source\\repos\\Pi Apps x86\\Pi Apps x86\\obj\\",
+      "outputPath": "C:\\Users\\muham\\Documents\\GitHub\\PiApps\\Pi-Apps-x86-Windows\\Pi Apps x86\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
