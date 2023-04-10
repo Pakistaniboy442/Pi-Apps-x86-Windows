@@ -14,11 +14,12 @@
         </Grid.RowDefinitions>
         <Grid>
             <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="64"></ColumnDefinition>
+                <ColumnDefinition Width="60
+                                  "></ColumnDefinition>
                 <ColumnDefinition></ColumnDefinition>
             </Grid.ColumnDefinitions>
-            <Image Source="/logo.png"  HorizontalAlignment="Left" Margin="5"/>
-            <TextBlock Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="36" Margin="7,0,0,0">Pi-Apps</TextBlock>
+            <Image Source="/logo.png"  HorizontalAlignment="Left" Margin="5,5,0,5"/>
+            <TextBlock Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="36">Pi-Apps</TextBlock>
         </Grid>
         <ListBox x:Name="Menu" Grid.Row="1" BorderBrush="Black" BorderThickness="0.5,0.5,0.5,0.5" Margin="5,0,5,0">
             <ListBoxItem Selected="ListBoxItem_Selected">Browsers</ListBoxItem>
